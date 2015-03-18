@@ -41,4 +41,4 @@ script: |
   sudo apt-get install software-properties-common
   sudo apt-add-repository -y ppa:ubuntu-sdk-team/ppa
   sudo apt-get update
-  sudo apt-get install -y qtdeclarative5-dev qt5-default libqt5webkit5-dev
+  sudo apt-get install -y qtdeclarative5-dev qt5-default libqt5webkit5-dev qtmultimedia5-dev

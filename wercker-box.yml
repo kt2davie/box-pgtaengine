@@ -1,5 +1,5 @@
 name: pgtabox
-version: 0.0.1
+version: 0.0.2
 type: main
 platform: ubuntu@14.10
 description: "Wercker box with C++14 toolchain and Qt 5."
